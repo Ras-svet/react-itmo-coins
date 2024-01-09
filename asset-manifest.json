@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-itmo-coins/static/css/main.1b8535f1.css",
+    "main.js": "/react-itmo-coins/static/js/main.fde5c045.js",
+    "static/media/welcome.gif": "/react-itmo-coins/static/media/welcome.7eb281c5e36740f994b7.gif",
+    "static/media/lk.svg": "/react-itmo-coins/static/media/lk.39c3ac04b02298d86ebe904dcf4bb826.svg",
+    "static/media/Inter-Bold.woff": "/react-itmo-coins/static/media/Inter-Bold.93c1301bd9f486c573b3.woff",
+    "static/media/Inter-Regular.woff": "/react-itmo-coins/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Bold.woff2": "/react-itmo-coins/static/media/Inter-Bold.ec64ea577b0349e055ad.woff2",
+    "static/media/Inter-Regular.woff2": "/react-itmo-coins/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/telegram.png": "/react-itmo-coins/static/media/telegram.ff5ef449297c7572a8b5.png",
+    "static/media/mail.png": "/react-itmo-coins/static/media/mail.05aef416fa2eac190678.png",
+    "static/media/vk.png": "/react-itmo-coins/static/media/vk.d1be3a9f2774948022f5.png",
+    "index.html": "/react-itmo-coins/index.html",
+    "static/media/file-icon.svg": "/react-itmo-coins/static/media/file-icon.047cc0f722dc1359888d5d97218f68a0.svg",
+    "static/media/OhBad.svg": "/react-itmo-coins/static/media/OhBad.df8eddf661ff88f2d0efd3d570d14309.svg",
+    "static/media/AllRight.svg": "/react-itmo-coins/static/media/AllRight.1b6082f862eac35e2514460237d96ecc.svg",
+    "static/media/close-button.svg": "/react-itmo-coins/static/media/close-button.08bcef64548164173fc7.svg",
+    "main.1b8535f1.css.map": "/react-itmo-coins/static/css/main.1b8535f1.css.map",
+    "main.fde5c045.js.map": "/react-itmo-coins/static/js/main.fde5c045.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b8535f1.css",
+    "static/js/main.fde5c045.js"
+  ]
+}
