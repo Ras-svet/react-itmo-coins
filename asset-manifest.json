@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-itmo-coins/static/css/main.1b8535f1.css",
-    "main.js": "/react-itmo-coins/static/js/main.fde5c045.js",
+    "main.js": "/react-itmo-coins/static/js/main.a396923a.js",
     "static/media/welcome.gif": "/react-itmo-coins/static/media/welcome.7eb281c5e36740f994b7.gif",
     "static/media/lk.svg": "/react-itmo-coins/static/media/lk.39c3ac04b02298d86ebe904dcf4bb826.svg",
     "static/media/Inter-Bold.woff": "/react-itmo-coins/static/media/Inter-Bold.93c1301bd9f486c573b3.woff",
@@ -17,10 +17,10 @@
     "static/media/AllRight.svg": "/react-itmo-coins/static/media/AllRight.1b6082f862eac35e2514460237d96ecc.svg",
     "static/media/close-button.svg": "/react-itmo-coins/static/media/close-button.08bcef64548164173fc7.svg",
     "main.1b8535f1.css.map": "/react-itmo-coins/static/css/main.1b8535f1.css.map",
-    "main.fde5c045.js.map": "/react-itmo-coins/static/js/main.fde5c045.js.map"
+    "main.a396923a.js.map": "/react-itmo-coins/static/js/main.a396923a.js.map"
   },
   "entrypoints": [
     "static/css/main.1b8535f1.css",
-    "static/js/main.fde5c045.js"
+    "static/js/main.a396923a.js"
   ]
 }
