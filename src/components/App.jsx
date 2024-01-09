@@ -35,7 +35,7 @@ function App() {
 		setImageStatusPopup(goodAnswer)
 		setTitleStatusPopup("Вы успешно зарегистрировались")
 		setIsStatusPopupOpen(true)
-		navigate("sign-in");
+		navigate("/react-itmo-coins/sign-in");
 	}
 
 	// React.useEffect(() => {
@@ -53,7 +53,7 @@ function App() {
 		if(isu == currentUser.isu && password == currentUser.password) {
 			localStorage.setItem('jwt', 'h789ed562fg49ls03b8uvwao84qnd904nd81e0');
 			setIsLoggedIn(true);
-			navigate("/");
+			navigate("/react-itmo-coins/");
 		} else {
 			setIsStatusPopupOpen(true);
 			setImageStatusPopup(badAnswer);
