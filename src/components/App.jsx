@@ -110,19 +110,19 @@ function App() {
 			<div className="body">
 				<div className="page">
 					<Routes>
-						<Route exact path="/sign-in" element={
+						<Route exact path="/react-itmo-coins/sign-in" element={
 							<>
-							<HeaderSign title="Регистрация" link="/sign-up" />
+							<HeaderSign title="Регистрация" link="/react-itmo-coins/sign-up" />
 							<Login onSubmit={loginUser}/>
 							</>
 						} />
-						<Route exact path="/sign-up" element={
+						<Route exact path="/react-itmo-coins/sign-up" element={
 							<>
-							<HeaderSign title="Вход" link="/sign-in" />
+							<HeaderSign title="Вход" link="/react-itmo-coins/sign-in" />
 							<Register onSubmit={register}/>
 							</>
 						} />
-						<Route exact path="/profile" element={
+						<Route exact path="/react-itmo-coins/profile" element={
 							<>
 							<Header name={currentUser.name} isu={currentUser.isu} />
 							<ProtectedRoute
@@ -136,7 +136,7 @@ function App() {
 								<Footer />
 							</>
 						}/>
-						<Route exact path="/" element={
+						<Route exact path="/react-itmo-coins/" element={
 							<>
 								<Header name={currentUser.name} isu={currentUser.isu} />
 								<ProtectedRoute
