@@ -1,0 +1,19 @@
+.popup__textarea {
+	width: 609px;
+	height: 123px;
+	background-color: #F1F1F1;
+	font-size: 16px;
+	line-height: 19px;
+	font-weight: 400;
+	margin: 0;
+	border-radius: 8px;
+	border: none;
+	padding: 10px;
+	margin-bottom: 18px;
+}
+
+.popup__textarea:focus {
+	border: none;
+	box-shadow: 0px 0px 10px #000642;
+	outline: none;
+}

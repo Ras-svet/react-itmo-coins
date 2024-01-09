@@ -1,0 +1,6 @@
+.footer__contacts {
+    display: flex;
+    flex-direction: row;
+    column-gap: 30px;
+    margin-bottom: 40px;
+}

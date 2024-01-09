@@ -1,0 +1,9 @@
+.header__coins {
+    margin: 0;
+    line-height: 29px;
+    font-weight: 400;
+    font-size: 24px;
+    color: #194D4D;
+    padding-top: 6px;
+    height: 29px;
+}

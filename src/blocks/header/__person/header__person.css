@@ -1,0 +1,6 @@
+.header__person {
+    padding-top: 3px;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}

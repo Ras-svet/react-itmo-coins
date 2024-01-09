@@ -1,0 +1,9 @@
+.header__person-name {
+    margin: 0;
+    line-height: 19px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000;
+    align-self: end;
+    text-align: end;
+}

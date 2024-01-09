@@ -1,0 +1,13 @@
+@media screen and (max-width: 880px) {
+    .welcome__gif {
+        width: 320px;
+        height: 200px;
+        background-size: cover;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .welcome__gif {
+        display: none;
+    }
+}

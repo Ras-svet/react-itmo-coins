@@ -1,0 +1,9 @@
+.card__status {
+	margin: 0px 14px 0px 19px;
+	margin-bottom: 20px;
+	line-height: 24px;
+	font-weight: 400;
+	font-size: 20px;
+	color:#C24A00;
+	text-align: center;
+}

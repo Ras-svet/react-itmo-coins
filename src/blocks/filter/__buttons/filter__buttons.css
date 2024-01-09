@@ -1,0 +1,24 @@
+.filter__buttons {
+	display: flex;
+	flex-direction: row;
+	column-gap: 19px;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 19px;
+	margin: 0;
+	margin-top: 20px;
+}
+
+@media screen and ( max-width: 1280px) {
+	.filter__buttons {
+			padding-left: 30px;
+			padding-right: 30px;
+	}
+}
+
+@media screen and ( max-width: 900px) {
+	.filter__buttons {
+			padding-left: 15px;
+			padding-right: 15px;
+	}
+}

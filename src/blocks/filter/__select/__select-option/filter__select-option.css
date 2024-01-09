@@ -1,0 +1,12 @@
+.filter__select-option {
+    background-color: #FDFFFC;
+    color: #194D4D;
+}
+
+option {
+    padding: 1px;
+}
+
+option :hover {
+    background-color: #A3D3BC !important;
+}

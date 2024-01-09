@@ -1,0 +1,30 @@
+.filter__search-input {
+    font-size: 18px;
+    width: 300px;
+    height: 36px;
+    outline: none;
+    border-radius: 24px;
+    border: 1.5px solid #C24A00;
+    padding-left: 10px;
+    padding-right: 30px;
+    color: #c7810f;
+    font-weight: 400;
+}
+
+.filter__search-input::placeholder {
+    opacity: .3;
+    font-weight: 400;
+}
+
+.filter__search-input:focus {
+    outline: none;
+    box-shadow: 0px 0px 10px #C24A00;
+}
+
+@media screen and (max-width: 1400px) {
+    .filter__search-input {
+        font-size: 16px;
+        width: 200px;
+        height: 25px;
+    }
+}

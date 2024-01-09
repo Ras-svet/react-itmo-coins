@@ -1,0 +1,19 @@
+.filter__buttons_progress {
+	border-radius: 30px;
+	background-color: #FFE0AD;
+	border: 1px solid #C24A00;
+	color: #C24A00;
+	padding: 8px 17px;
+}
+
+.filter__buttons_progress:hover {
+	cursor: pointer;
+	box-shadow: 0px 0px 10px #C24A00;
+}
+
+.filter__buttons_progress_active {
+	cursor: pointer;
+	background-color: #C24A00;
+	color: #FFE0AD;
+	box-shadow: 0px 0px 10px #C24A00;
+}

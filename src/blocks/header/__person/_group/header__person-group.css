@@ -1,0 +1,8 @@
+.header__person-group {
+    margin: 0;
+    line-height: 17px;
+    font-weight: 400;
+    font-size: 14px;
+    color: #000;
+    align-self: end;
+}

@@ -1,0 +1,14 @@
+.content {
+    margin-top: 23px;
+    border-top: 1px solid #3F826D;
+    position: relative;
+}
+
+.content:before{ 
+    content: " ";
+    background: #7D1128;
+    width: 430px;
+    height: 1px;
+    top: 18px;
+    position: absolute;
+  }

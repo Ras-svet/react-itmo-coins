@@ -1,0 +1,10 @@
+.filter__search-button {
+    height: 1rem;
+    position: relative;
+    top: 1.5px;
+    right: 28px;
+}
+
+.filter__search-button:hover {
+    cursor: pointer;
+}

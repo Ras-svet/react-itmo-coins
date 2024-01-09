@@ -1,0 +1,30 @@
+.filter__select {
+    width: 300px;
+    height: 40px;
+    outline: none;
+    border-radius: 24px;
+    padding-left: 10px;
+    /* background-color:  #D2E3DB; */
+    color: #194D4D;
+    line-height: 18px;
+    font-weight: 400;
+    font-size: 18px;
+    border: 1.5px solid #194D4D;
+}
+
+.filter__select:focus {
+    outline: none;
+    box-shadow: 0px 0px 10px #194D4D;
+}
+
+.filter__select:hover {
+    cursor: pointer;
+}
+
+@media screen and (max-width: 1400px) {
+    .filter__select{
+        font-size: 16px;
+        width: 200px;
+        height: 29px;
+    }
+}

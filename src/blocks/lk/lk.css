@@ -1,0 +1,10 @@
+.lk {
+	display: flex;
+	flex-direction: row;
+	column-gap: 67px;
+	align-items: center;
+	margin-top: 20px;
+	margin-left: 100px;
+	margin-right: 82px;
+	justify-content: center;
+} 

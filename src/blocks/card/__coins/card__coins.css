@@ -1,0 +1,6 @@
+.card__coins {
+    display: flex;
+    flex-direction: row;
+    column-gap: 1px;
+		padding-top: 5px;
+}

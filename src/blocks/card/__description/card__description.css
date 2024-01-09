@@ -1,0 +1,17 @@
+.card__description {
+		/* display: ; */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    margin: 0 14px 10px 18px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		/* white-space: nowrap; */
+		/* max-width: 543px; */
+}

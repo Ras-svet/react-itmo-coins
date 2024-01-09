@@ -1,0 +1,11 @@
+.header__title{
+    margin: 0;
+    line-height: 48px;
+    font-weight: 400;
+    font-size: 40px;
+    color: #000642;
+}
+
+.header__title-link {
+	text-decoration: none;
+}

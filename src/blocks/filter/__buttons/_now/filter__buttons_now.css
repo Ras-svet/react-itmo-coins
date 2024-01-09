@@ -1,0 +1,26 @@
+.filter__buttons_now {
+	border-radius: 30px;
+	background-color: #ADCDFF;
+	border: 1px solid #000642;
+	color: #000642;
+	padding: 8px 17px;
+}
+
+.filter__buttons_now:hover {
+	cursor: pointer;
+	box-shadow: 0px 0px 10px #000642;
+}
+
+.filter__buttons_now:focus{
+	cursor: pointer;
+	background-color: #000642;
+	color: #ADCDFF;
+	box-shadow: 0px 0px 10px #000642;
+}
+
+.filter__buttons_now_active {
+	cursor: pointer;
+	background-color: #000642;
+	color: #ADCDFF;
+	box-shadow: 0px 0px 10px #000642;
+}

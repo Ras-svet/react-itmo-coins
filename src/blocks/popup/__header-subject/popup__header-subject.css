@@ -1,0 +1,11 @@
+.popup__header-subject {
+    padding: 7px 15px;
+    border: 1px solid #8F0028;
+    border-radius: 24px;
+    line-height: 19px;
+    font-weight: 400;
+    font-size: 16px;
+    margin: 0;
+    color: #8F0028;
+		height: 19px;
+}

@@ -1,0 +1,20 @@
+.lk__scroll-table-body {
+	height: 300px;
+	overflow-x: auto;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	border-bottom: 1px solid #eee;
+	width: 596px;
+}
+
+@media screen and (max-width: 1200px) {
+	.lk__scroll-table-body {
+		width: 820px;
+	}
+}
+
+@media screen and (max-width: 980px) {
+	.lk__scroll-table-body {
+		width: 600px;
+	}
+}

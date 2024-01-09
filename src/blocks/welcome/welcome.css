@@ -1,0 +1,21 @@
+.welcome {
+    display: flex;
+    padding: 37px 15px 0px 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+@media screen and ( max-width: 1280px) {
+    .welcome {
+        padding-left: 88px;
+        padding-right: 88px;
+    }
+}
+
+@media screen and ( max-width: 900px) {
+    .welcome {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
